@@ -146,6 +146,13 @@ redbt.onclick = function(){
     rbutton.type="button"
     rbutton.textContent="Reset"
     Div4.appendChild(rbutton)
+
+    let tbutton=document.createElement("BUTTON")
+    tbutton.id="rbutton"
+    tbutton.type="button"
+    tbutton.textContent="newbt"
+    Div4.appendChild(tbutton)
+
     sbutton.onclick = function(){
         display()
       };
