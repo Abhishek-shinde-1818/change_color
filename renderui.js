@@ -141,7 +141,7 @@ redbt.onclick = function(){
     sbutton.textContent="submit"
     Div4.appendChild(sbutton)
 
-    let tbutton=document.createElement("BUTTON")
+    
     let rbutton=document.createElement("BUTTON")
     rbutton.id="rbutton"
     rbutton.type="button"
