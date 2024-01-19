@@ -1,0 +1,44 @@
+#navbar{
+    height: 80vh;
+    width: 80wh;
+    padding-left: 150px;
+    display: flex;
+    margin-top: 10vh;
+    
+     
+}
+
+#red{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
+#green{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
+#bbox{
+    height: 80vh;
+    width: fit-content;
+    margin: 20px;
+    
+}
+#ibox{
+    height: 80vh;
+    width: fit-content;
+    margin: 20px;
+    
+   
+}
+#sbox{
+    height: 80vh;
+    width: fit-content;
+    margin: 20px;
+    
+}
